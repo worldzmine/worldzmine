@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Wa’il — big ideas. good trouble.</title>
+  <desc id="desc">Wa’il Ashshowwaf. Builder, investor, and co-founder of Unstuck Labs. Washington, DC and everywhere.</desc>
+  <rect width="1280" height="400" rx="18" fill="#171b18"/>
+  <path d="M48 48h1184M48 348h1184" stroke="#454c41"/>
+  <circle cx="59" cy="77" r="5" fill="#c6ef86"/>
+  <text x="78" y="83" fill="#c6ef86" font-family="monospace" font-size="17" letter-spacing="3">WA’IL ASHSHOWWAF</text>
+  <text x="58" y="186" fill="#f2efdf" font-family="Georgia,serif" font-size="88">big ideas.</text>
+  <text x="58" y="276" fill="#c6ef86" font-family="Georgia,serif" font-style="italic" font-size="88">good trouble.</text>
+  <text x="60" y="327" fill="#e0dfd1" font-family="monospace" font-size="15" letter-spacing="1">BUILDER · INVESTOR · CO-FOUNDER, UNSTUCK LABS</text>
+  <g fill="#c6ef86" transform="translate(1040 148)"><rect x="0" y="30" width="30" height="30"/><rect x="30" y="60" width="30" height="30"/><rect x="60" y="0" width="30" height="150"/><rect x="90" y="60" width="30" height="30"/><rect x="120" y="30" width="30" height="30"/><rect x="0" y="90" width="30" height="30"/><rect x="120" y="90" width="30" height="30"/></g>
+  <text x="1230" y="377" text-anchor="end" fill="#c6ef86" font-family="monospace" font-size="14" letter-spacing="2">STILL CURIOUS. STILL BUILDING. ↗</text>
+</svg>
